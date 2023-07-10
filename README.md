@@ -1,3 +1,2 @@
 # Library Management System
-# book-library-be-project
-# backend-project-book-library
+This backend project is created by me in collaboration with my DCI collegues Meriem, Sixtus and Marina
