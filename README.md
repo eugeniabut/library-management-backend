@@ -1,3 +1,3 @@
 # Library Management System
-Authors: Khadraoui M., Tkachuk M., Adelehin S., Butkevich E. 
-Functionalities: API routes (GET, POST, PUT, DELETE), Authentication and Authorization, Database Interaction wit MongoDB, Data Validation, Middleware, Error Handling.
+Authors: Khadraoui M., Tkachuk M., Adelehin S., Butkevich E.
+Functionalities: API routes (GET, POST, PUT, DELETE), authentication and authorization, database interaction wit MongoDB, data validation, middleware, error handling.
