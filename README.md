@@ -1,2 +1,3 @@
 # Library Management System
-This backend project is created by me in collaboration with my DCI collegues Meriem, Sixtus and Marina
+Authors: Khadraoui M., Tkachuk M., Adelehin S., Butkevich E. 
+Functionalities: API routes(GET, POST, PUT, DELETE), Authentication and Authorization, Database Interaction wit MongoDB, Data Validation, Middleware, Error Handling.
